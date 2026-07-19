@@ -39,8 +39,8 @@ echo "=== PROJETO APLICADO COM SUCESSO! REDE PROTEGIDA ==="
 ### Passo 2: Acessar o painel web do Pi-hole
 Acesse o painel web do Pi-hole no navegador utilizando os seguintes caminhos:
 
-http://pi.hole/admin/ (quando utilizando o  Pi-hole como um servidor DNS)
-http://<ENDERECO_IP_DO_PIHOLE>/admin/
+* http://pi.hole/admin/ (quando utilizando o  Pi-hole como um servidor DNS)
+* http://<ENDERECO_IP_DO_PIHOLE>/admin/
 
 ### Passo 3 Testar:
 Tente acessar algum site da lista de bloqueios.
